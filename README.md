@@ -1,0 +1,4 @@
+AndroidShake
+============
+
+Detects events shake
